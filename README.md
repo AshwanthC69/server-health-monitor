@@ -52,3 +52,10 @@ Practiced Bash scripting, Linux system monitoring, conditional statements, input
 ## Limitations
 This project currently monitors the Linux environment where it runs. Automated scheduling and external alerts are not implemented.
 
+## Project Screenshots
+
+### 1. Server Health Monitor Output
+![Health Check Report](screenshots/health-check-report.png)
+
+### 2. Saved Health Report
+![Saved Health Report](screenshots/saved-health-report.png)
